@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286186416952",
+    "project_id": "trade-app-dacd2",
+    "storage_bucket": "trade-app-dacd2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286186416952:android:ba4187583064468f076fcd",
+        "android_client_info": {
+          "package_name": "com.anonymous.MynewApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lFanXs2Z2Mq_BSD3sezmOnvhFN8bs0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
